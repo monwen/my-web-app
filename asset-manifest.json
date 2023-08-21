@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-web-app/static/css/main.0bd03bc6.css",
-    "main.js": "/my-web-app/static/js/main.20baf678.js",
+    "main.js": "/my-web-app/static/js/main.930682e7.js",
     "static/js/787.7fa8ba7d.chunk.js": "/my-web-app/static/js/787.7fa8ba7d.chunk.js",
     "static/media/pexels-teona-swift-6913784.png": "/my-web-app/static/media/pexels-teona-swift-6913784.7bcda302305377952496.png",
     "static/media/pexels-michaela-290975.png": "/my-web-app/static/media/pexels-michaela-290975.a4ec0afda5d17fa7b968.png",
@@ -9,11 +9,11 @@
     "static/media/sprite.svg": "/my-web-app/static/media/sprite.45dd089e7d992a5f84039bec4053e1ee.svg",
     "index.html": "/my-web-app/index.html",
     "main.0bd03bc6.css.map": "/my-web-app/static/css/main.0bd03bc6.css.map",
-    "main.20baf678.js.map": "/my-web-app/static/js/main.20baf678.js.map",
+    "main.930682e7.js.map": "/my-web-app/static/js/main.930682e7.js.map",
     "787.7fa8ba7d.chunk.js.map": "/my-web-app/static/js/787.7fa8ba7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bd03bc6.css",
-    "static/js/main.20baf678.js"
+    "static/js/main.930682e7.js"
   ]
 }
